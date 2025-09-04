@@ -2,6 +2,8 @@
 
 Este é um projeto desenvolvido como trabalho final para a disciplina de Angular I, Turma 1455. O objetivo é demonstrar conhecimentos em Angular, incluindo componentes, serviços, rotas, pipes, validações e gerenciamento de estado.
 
+Acesse pelo link: https://projeto-final-angular-i-turma-1455.netlify.app/
+
 ## 🛠️ Tecnologias e Serviços Utilizadas
 
 - [Angular CLI 20.1.5](https://github.com/angular/angular-cli)
